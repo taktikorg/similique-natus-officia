@@ -1,18 +1,52 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@taktikorg/similique-natus-officia",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "taktikangt6",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@juigorg/sit-nam-neque": "^1.0.4",
+    "@kollorg/dicta-itaque-nemo": "^1.0.4",
+    "@swenkerorg/modi-dolorum-provident": "^1.1.3",
+    "@taktikorg/illum-accusamus-possimus": "^1.0.0",
+    "@taktikorg/nam-esse-animi": "^1.0.0",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^1.1.3",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "@@toStringTag",
+    "spinners",
+    "byteLength",
+    "dataview",
+    "stringify",
+    "zero",
+    "setter",
+    "column",
+    "vest",
+    "string",
+    "private",
+    "ebs",
+    "Function.prototype.name",
+    "trimLeft",
+    "fullwidth",
+    "install",
+    "zod"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/taktikorg/similique-natus-officia.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/taktikorg/similique-natus-officia/#readme",
+  "bugs": {
+    "url": "https://github.com/taktikorg/similique-natus-officia/issues"
   }
 }
